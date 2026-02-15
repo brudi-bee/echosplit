@@ -16,7 +16,6 @@ Kurzbeschreibung: Breaking algorithmic echo chambers with side-by-side perspecti
 - [ ] MVP definieren
 - [ ] Erste lauffähige Version bauen
 
-
 ## MVP Prototype
 Local app (recommended):
 ```bash
