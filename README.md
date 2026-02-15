@@ -18,10 +18,11 @@ Kurzbeschreibung: Breaking algorithmic echo chambers with side-by-side perspecti
 
 
 ## MVP Prototype
-Static split-view prototype is in `app/` (HTML/CSS/Vanilla JS).
-Run locally:
+Local app (recommended):
 ```bash
-cd app
-python3 -m http.server 8090
+./run_echosplit.sh
 ```
-Open http://localhost:8090
+Open http://127.0.0.1:8090
+
+Public GitHub Pages demo (auto-deploy from `docs/`):
+`https://brudi-bee.github.io/echosplit/`
