@@ -16,6 +16,12 @@ Kurzbeschreibung: Breaking algorithmic echo chambers with side-by-side perspecti
 - [ ] MVP definieren
 - [ ] Erste lauffähige Version bauen
 
-## Regeln
-- Keine kostenpflichtigen Schritte ohne explizite Freigabe.
-- Keine privaten Daten extern ohne Freigabe.
+
+## MVP Prototype
+Static split-view prototype is in `app/` (HTML/CSS/Vanilla JS).
+Run locally:
+```bash
+cd app
+python3 -m http.server 8090
+```
+Open http://localhost:8090
